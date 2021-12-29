@@ -14,7 +14,7 @@ export default {
 
 <style lang="scss">
 /*每个页面公共css */
-@import "uview-ui/index.scss";
+@import 'uview-ui/index.scss';
 
 .test {
   color: red;
@@ -26,6 +26,6 @@ export default {
   width: 100vw;
   height: 5px;
   box-shadow: 0 -5px 5px #0000000d;
-		z-index: 999;
+  z-index: 999;
 }
 </style>
